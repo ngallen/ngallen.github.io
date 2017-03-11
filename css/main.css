@@ -44,6 +44,11 @@ h4   {
   margin-bottom: 10%
   }
 
+h5   {
+  color: #E9E9E9;
+  font-size: 1.5em;
+  }
+
 .modal-dialog{
   width: 80%;
   }
@@ -164,4 +169,10 @@ figcaption.featured{
 div.sectionHead{
   border-top: 2px solid red;
   border-bottom: 2px solid red;
+}
+
+.contact-link{
+  text-decoration: underline;
+  font-size: 1.5em;
+  color: #E9E9E9;
 }
